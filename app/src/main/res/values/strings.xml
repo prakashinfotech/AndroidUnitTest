@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unit Test Example</string>
+    <string name="lbl_Password">Password :</string>
+    <string name="lbl_emailId">Email :</string>
+</resources>
